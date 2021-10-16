@@ -10,3 +10,4 @@ libraryDependencies += "org.scodec" %% "scodec-stream" % "3.0.2"
 libraryDependencies += "co.fs2" %% "fs2-io" % "3.1.5"
 libraryDependencies += ("org.scalanlp" %% "breeze" % "2.0").exclude("org.typelevel", "cats-kernel_2.13")
 libraryDependencies += "org.typelevel" %% "cats-kernel" % "2.6.1"
+libraryDependencies += "org.typelevel" %% "cats-effect-std" % "3.2.9"
